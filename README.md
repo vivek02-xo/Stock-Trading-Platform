@@ -16,7 +16,7 @@ Built to understand how actual trading systems work — from placing orders to t
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 - HTML / CSS / JavaScript (or React – if applicable)
